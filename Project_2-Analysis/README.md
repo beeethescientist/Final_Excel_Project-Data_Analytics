@@ -35,7 +35,7 @@ This analysis was guided by the following questions:
 ## 📊 Analysis & Insights  
 
 ### 🧠 Skills vs Salary  
-![Skills_vs_salary](0_Resources/Images/2_Project_Analysis_Chart1.png)
+![Skills_vs_salary](/0_Resources/Images/2_Project_Analysis_Chart1.png)
 - Roles requiring a broader or more technical skill set tend to offer higher salaries  
 - Senior and engineering-focused roles generally outperform generalist analyst roles in pay  
 - There is a clear relationship between specialization and earning potential  
@@ -43,7 +43,7 @@ This analysis was guided by the following questions:
 ---
 
 ### 🌍 Regional Salary Differences  
-![Regional_salary_differences](0_Resources/Images/2_Project_Analysis_Chart2.png)
+![Regional_salary_differences](/0_Resources/Images/2_Project_Analysis_Chart2.png)
 - Salary levels vary significantly across countries  
 - High-demand tech regions tend to offer higher compensation for similar roles  
 - Location remains a key factor in determining salary outcomes  
@@ -51,7 +51,7 @@ This analysis was guided by the following questions:
 ---
 
 ### 🛠️ Most Common Skills in the Market  
-![Top skills in the market](0_Resources/Images/2_Project_Analysis_Chart3.png)
+![Top_skills_in_the_market](/0_Resources/Images/2_Project_Analysis_Chart3.png)
 - SQL and Python consistently appear across the majority of data roles  
 - Cloud technologies (such as AWS and Azure) are increasingly important  
 - Core technical tools dominate higher-paying job listings  
@@ -59,7 +59,7 @@ This analysis was guided by the following questions:
 ---
 
 ### 💰 Skills Linked to Higher Pay  
-![Skills linked to higher pay](0_Resources/Images/2_Project_Analysis_Chart4.png)
+![Skills linked to higher pay](/0_Resources/Images/2_Project_Analysis_Chart4.png)
 - High-paying roles are strongly associated with programming and cloud-based skills  
 - More general tools and office-based skills tend to appear in lower salary bands  
 - The combination of multiple technical skills increases earning potential  
